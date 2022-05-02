@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ubong
 
-A Frontend Developer
+## A Frontend Developer
 
 <p>
   <a href="https://github.com/ubong-s">

@@ -14,6 +14,12 @@ A Frontend Developer
   </a>&nbsp;&nbsp;
 </p>
 
+<!--
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ubong-s&show_icons=true&count_private=true" />
+</p>
+-->
+
 ## 💻 My Stack
 <p>
   <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />

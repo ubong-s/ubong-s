@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Next_js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Styled_components-purple?style=for-the-badge&logo=styled-components&logoColor=black" />
   <img src="https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=sass&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ## 🌱 I’m currently learning ...
